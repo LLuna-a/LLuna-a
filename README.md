@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lluna-a&label=Profile%20views&color=ff00a2&style=flat" alt="lluna-a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lluna-a" alt="lluna-a" /></a> </p>
 
 - 🌱 I’m currently learning **Electron,React**
 
