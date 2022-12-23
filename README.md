@@ -12,8 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluna-a&show_icons=true&theme=radical&locale=en&layout=compact" alt="lluna-a" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lluna-a&show_icons=true&theme=radical&locale=en" alt="lluna-a" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lluna-a&theme=radical" alt="lluna-a" /></p>
-
-
