@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lluna-a&label=Profile%20views&color=ff00a2&style=flat" alt="lluna-a" /> </p>
 
 
-- 🌱 I’m currently learning **Electron,React,Unity**
+- 🌱 I’m currently learning **React**
 
 
 <h3 align="left">Languages and Tools:</h3>
